@@ -16,8 +16,6 @@ set history=500
 let mapleader=","
 " #leader key 로 , 을 사용
 
-set list
-set listchars=tab:▸·
 
 set showmatch 
 " #괄호 위에 커서가 올라가면 매치되는 괄호를 표시
