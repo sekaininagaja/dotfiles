@@ -45,6 +45,8 @@ Plug 'nanotech/jellybeans.vim'
 " flake8
 Plug 'https://github.com/nvie/vim-flake8'
 
+Plug 'hail2u/vim-css3-syntax'
+
 call plug#end()
 
 
