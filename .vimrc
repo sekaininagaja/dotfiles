@@ -10,6 +10,7 @@ set softtabstop=4
 set shiftwidth=4
 set expandtab
 set encoding=utf-8
+set textwidth=100
 
 set history=500 
 " 500까지 기억하기
@@ -46,6 +47,8 @@ Plug 'nanotech/jellybeans.vim'
 Plug 'https://github.com/nvie/vim-flake8'
 
 Plug 'hail2u/vim-css3-syntax'
+
+Plug 'terryma/vim-multiple-cursors'
 
 call plug#end()
 
